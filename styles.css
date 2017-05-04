@@ -35,3 +35,8 @@ td {
 #computer_active{
   background-color: purple;
 }
+#countdown-box{
+  text-align: center;
+  font-size: 150px;
+  font-weight: bold; 
+}
